@@ -140,20 +140,20 @@ const Banner = () => {
           <Clock className="text-designColor w-8 h-8" />
           <div>
             <p>Saturday - Thursday</p>
-            <p className="font-semibold">7:00 - 20:00</p>
+            <p className="font-semibold">8:00 - 20:00</p>
           </div>
         </div>
         <div className="flex items-center gap-5 w-60">
           <Smartphone className="text-designColor w-8 h-8" />
           <div>
-            <p>+ 018 0000 0000</p>
+            <p>+998 33 656 10 00</p>
             <p className="font-semibold">Order by Phone</p>
           </div>
         </div>
         <div className="flex items-center gap-5 w-60">
           <Map className="text-designColor w-8 h-8" />
           <div>
-            <p>Mirpur, Dhaka</p>
+            <p>Samarkand, Makon Mall</p>
             <p className="font-semibold">Address</p>
           </div>
         </div>
